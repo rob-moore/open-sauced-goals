@@ -13,14 +13,14 @@
   },
   {
     "full_name": "id-Software/DOOM",
-    "stargazers_count": 7371,
+    "stargazers_count": 7377,
     "open_issues_count": 4,
-    "forks_count": 1342
+    "forks_count": 1343
   },
   {
     "full_name": "archlinux/archinstall",
-    "stargazers_count": 2144,
-    "open_issues_count": 64,
+    "stargazers_count": 2149,
+    "open_issues_count": 67,
     "forks_count": 126
   },
   {
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "runelite/runelite",
-    "stargazers_count": 3350,
-    "open_issues_count": 1928,
-    "forks_count": 4218
+    "stargazers_count": 3362,
+    "open_issues_count": 1936,
+    "forks_count": 4227
   },
   {
     "full_name": "supercomputra/SF-Mono-Font",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "AlDanial/cloc",
-    "stargazers_count": 12273,
-    "open_issues_count": 19,
-    "forks_count": 716
+    "stargazers_count": 12289,
+    "open_issues_count": 20,
+    "forks_count": 718
   },
   {
     "full_name": "alhazmy13/angular-csv-ext",
@@ -69,7 +69,7 @@
     "full_name": "hawku/TabletDriver",
     "stargazers_count": 1031,
     "open_issues_count": 688,
-    "forks_count": 210
+    "forks_count": 212
   },
   {
     "full_name": "stonelasley/ionic-mocks",
@@ -80,62 +80,62 @@
   {
     "full_name": "VadimDez/ngx-order-pipe",
     "stargazers_count": 232,
-    "open_issues_count": 4,
-    "forks_count": 56
+    "open_issues_count": 5,
+    "forks_count": 57
   },
   {
     "full_name": "text-mask/text-mask",
-    "stargazers_count": 8060,
+    "stargazers_count": 8066,
     "open_issues_count": 299,
-    "forks_count": 809
+    "forks_count": 810
   },
   {
     "full_name": "rupa/z",
-    "stargazers_count": 13414,
+    "stargazers_count": 13421,
     "open_issues_count": 92,
-    "forks_count": 1064
+    "forks_count": 1063
   },
   {
     "full_name": "busyloop/lolcat",
-    "stargazers_count": 4653,
+    "stargazers_count": 4657,
     "open_issues_count": 23,
     "forks_count": 176
   },
   {
     "full_name": "yarnpkg/yarn",
-    "stargazers_count": 40078,
-    "open_issues_count": 1930,
+    "stargazers_count": 40088,
+    "open_issues_count": 1931,
     "forks_count": 2715
   },
   {
     "full_name": "spencermountain/spacetime",
-    "stargazers_count": 3432,
+    "stargazers_count": 3434,
     "open_issues_count": 18,
     "forks_count": 152
   },
   {
     "full_name": "sindresorhus/pure",
-    "stargazers_count": 10628,
+    "stargazers_count": 10637,
     "open_issues_count": 34,
-    "forks_count": 869
+    "forks_count": 873
   },
   {
     "full_name": "feathericons/feather",
-    "stargazers_count": 20616,
-    "open_issues_count": 441,
-    "forks_count": 972
+    "stargazers_count": 20628,
+    "open_issues_count": 442,
+    "forks_count": 973
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9421,
-    "open_issues_count": 1139,
-    "forks_count": 991
+    "stargazers_count": 9433,
+    "open_issues_count": 1145,
+    "forks_count": 993
   },
   {
     "full_name": "picturepan2/spectre",
-    "stargazers_count": 10863,
+    "stargazers_count": 10870,
     "open_issues_count": 188,
-    "forks_count": 766
+    "forks_count": 767
   },
   {
     "full_name": "nusu/spectre.scss",
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "sindresorhus/hyper-snazzy",
-    "stargazers_count": 1291,
+    "stargazers_count": 1292,
     "open_issues_count": 5,
     "forks_count": 82
   },
   {
     "full_name": "ziishaned/learn-regex",
-    "stargazers_count": 38754,
+    "stargazers_count": 38782,
     "open_issues_count": 67,
-    "forks_count": 5491
+    "forks_count": 5494
   },
   {
     "full_name": "tachyons-css/tachyons",
-    "stargazers_count": 10899,
+    "stargazers_count": 10905,
     "open_issues_count": 88,
     "forks_count": 656
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "zplug/zplug",
-    "stargazers_count": 4715,
+    "stargazers_count": 4720,
     "open_issues_count": 134,
     "forks_count": 203
   }
