@@ -13,21 +13,21 @@
   },
   {
     "full_name": "id-Software/DOOM",
-    "stargazers_count": 7425,
+    "stargazers_count": 7435,
     "open_issues_count": 4,
-    "forks_count": 1348
+    "forks_count": 1349
   },
   {
     "full_name": "archlinux/archinstall",
-    "stargazers_count": 2177,
+    "stargazers_count": 2182,
     "open_issues_count": 65,
-    "forks_count": 127
+    "forks_count": 126
   },
   {
     "full_name": "KatDevsGames/z3randomizer",
     "stargazers_count": 41,
     "open_issues_count": 8,
-    "forks_count": 40
+    "forks_count": 39
   },
   {
     "full_name": "rob-moore/dotfiles",
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "runelite/runelite",
-    "stargazers_count": 3385,
-    "open_issues_count": 1938,
-    "forks_count": 4249
+    "stargazers_count": 3388,
+    "open_issues_count": 1946,
+    "forks_count": 4251
   },
   {
     "full_name": "supercomputra/SF-Mono-Font",
-    "stargazers_count": 477,
+    "stargazers_count": 478,
     "open_issues_count": 0,
     "forks_count": 71
   },
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "AlDanial/cloc",
-    "stargazers_count": 12357,
-    "open_issues_count": 20,
-    "forks_count": 726
+    "stargazers_count": 12380,
+    "open_issues_count": 24,
+    "forks_count": 730
   },
   {
     "full_name": "alhazmy13/angular-csv-ext",
     "stargazers_count": 48,
     "open_issues_count": 16,
-    "forks_count": 24
+    "forks_count": 23
   },
   {
     "full_name": "hawku/TabletDriver",
     "stargazers_count": 1036,
-    "open_issues_count": 692,
+    "open_issues_count": 693,
     "forks_count": 211
   },
   {
@@ -85,26 +85,26 @@
   },
   {
     "full_name": "text-mask/text-mask",
-    "stargazers_count": 8067,
+    "stargazers_count": 8066,
     "open_issues_count": 298,
-    "forks_count": 810
+    "forks_count": 813
   },
   {
     "full_name": "rupa/z",
-    "stargazers_count": 13447,
+    "stargazers_count": 13456,
     "open_issues_count": 92,
     "forks_count": 1066
   },
   {
     "full_name": "busyloop/lolcat",
-    "stargazers_count": 4677,
+    "stargazers_count": 4681,
     "open_issues_count": 23,
     "forks_count": 178
   },
   {
     "full_name": "yarnpkg/yarn",
-    "stargazers_count": 40107,
-    "open_issues_count": 1934,
+    "stargazers_count": 40115,
+    "open_issues_count": 1936,
     "forks_count": 2716
   },
   {
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "sindresorhus/pure",
-    "stargazers_count": 10676,
+    "stargazers_count": 10687,
     "open_issues_count": 33,
-    "forks_count": 872
+    "forks_count": 874
   },
   {
     "full_name": "feathericons/feather",
-    "stargazers_count": 20662,
-    "open_issues_count": 444,
-    "forks_count": 976
+    "stargazers_count": 20677,
+    "open_issues_count": 440,
+    "forks_count": 977
   },
   {
     "full_name": "VSCodeVim/Vim",
-    "stargazers_count": 9473,
-    "open_issues_count": 1158,
-    "forks_count": 993
+    "stargazers_count": 9486,
+    "open_issues_count": 1163,
+    "forks_count": 994
   },
   {
     "full_name": "picturepan2/spectre",
-    "stargazers_count": 10879,
+    "stargazers_count": 10880,
     "open_issues_count": 188,
-    "forks_count": 767
+    "forks_count": 766
   },
   {
     "full_name": "nusu/spectre.scss",
@@ -147,19 +147,19 @@
     "full_name": "sindresorhus/hyper-snazzy",
     "stargazers_count": 1297,
     "open_issues_count": 5,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "ziishaned/learn-regex",
-    "stargazers_count": 38861,
+    "stargazers_count": 38883,
     "open_issues_count": 67,
     "forks_count": 5505
   },
   {
     "full_name": "tachyons-css/tachyons",
-    "stargazers_count": 10914,
+    "stargazers_count": 10919,
     "open_issues_count": 88,
-    "forks_count": 656
+    "forks_count": 658
   },
   {
     "full_name": "thiderman/doge",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "zplug/zplug",
-    "stargazers_count": 4726,
-    "open_issues_count": 134,
-    "forks_count": 205
+    "stargazers_count": 4731,
+    "open_issues_count": 135,
+    "forks_count": 206
   }
 ]
